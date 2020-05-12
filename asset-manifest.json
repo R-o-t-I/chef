@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/chef/static/css/main.e34dd6f3.chunk.css",
+    "main.js": "/chef/static/js/main.c9ce97b4.chunk.js",
+    "main.js.map": "/chef/static/js/main.c9ce97b4.chunk.js.map",
+    "runtime-main.js": "/chef/static/js/runtime-main.9d25b0d1.js",
+    "runtime-main.js.map": "/chef/static/js/runtime-main.9d25b0d1.js.map",
+    "static/css/2.86df01db.chunk.css": "/chef/static/css/2.86df01db.chunk.css",
+    "static/js/2.c7fc731c.chunk.js": "/chef/static/js/2.c7fc731c.chunk.js",
+    "static/js/2.c7fc731c.chunk.js.map": "/chef/static/js/2.c7fc731c.chunk.js.map",
+    "index.html": "/chef/index.html",
+    "precache-manifest.c0f546b893f9134335a60a23f87540d5.js": "/chef/precache-manifest.c0f546b893f9134335a60a23f87540d5.js",
+    "service-worker.js": "/chef/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/chef/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.e34dd6f3.chunk.css.map": "/chef/static/css/main.e34dd6f3.chunk.css.map",
+    "static/js/2.c7fc731c.chunk.js.LICENSE.txt": "/chef/static/js/2.c7fc731c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9d25b0d1.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.c7fc731c.chunk.js",
+    "static/css/main.e34dd6f3.chunk.css",
+    "static/js/main.c9ce97b4.chunk.js"
+  ]
+}
